@@ -1,2 +1,2 @@
 # Gaussian-filter
-MnivI - Domasna rabota - 165048
+MnivI - Domasna rabota - Maja Talevska 165048
